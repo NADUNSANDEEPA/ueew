@@ -1,0 +1,30 @@
+@charset "utf-8";
+.container-fluid .row .col-sm-6.col-md-4 {
+	background-color: #191818;
+}
+.col-sm-6.col-md-4 .thumbnail .caption {
+	background-color: #191818;
+}
+.container-fluid .row {
+	background-color: #191818;
+}
+body {
+	background-color: #191818;
+}
+.single-upcoming-shows.d-flex.align-items-center.flex-wrap .shows-date h3 {
+	color: #0EF737;
+}
+.shows-desc.d-flex.align-items-center .shows-name h3 {
+}
+.shows-desc.d-flex.align-items-center .shows-name h3 {
+	color: #19F71E;
+}
+.single-upcoming-shows.d-flex.align-items-center.flex-wrap .shows-location h3 {
+	color: undefined;
+}
+.single-upcoming-shows.d-flex.align-items-center.flex-wrap .shows-location h3 {
+	color: undefined;
+}
+.thumbnail .caption p {
+	color: #B849F0;
+}

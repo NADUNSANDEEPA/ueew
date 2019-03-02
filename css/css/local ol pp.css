@@ -1,0 +1,10 @@
+@charset "utf-8";
+.container-fluid .navbar.navbar-default.navbar-fixed-top {
+	font-size: 16px;
+}
+.container-fluid .navbar-header .navbar-brand {
+	color: #F10609;
+}
+.nav.navbar-nav.navbar-right li a {
+	color: #1DF314;
+}

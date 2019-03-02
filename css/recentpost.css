@@ -1,0 +1,19 @@
+.column .card h3 {
+	color: #030303;
+	font-style: normal;
+	font-family: acme;
+	font-weight: 400;
+}
+.column .card p {
+	color: #070505;
+}
+.row .column .card {
+	background-color: #A033F3;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(248,0,255,1.00) 85.49%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(248,0,255,1.00) 85.49%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(248,0,255,1.00) 85.49%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(248,0,255,1.00) 85.49%);
+}
+center h3 strong {
+	color: #E74043;
+}

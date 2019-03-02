@@ -1,0 +1,32 @@
+@charset "utf-8";
+.container-fluid h2 {
+	color: #56F308;
+}
+.container-fluid #myTable1 {
+	width: 0px;
+	height: 0px;
+}
+tr td h1 {
+	color: #2AFF08;
+}
+.container-fluid #myTable {
+}
+.container-fluid .btn-group .btn.btn-default {
+	margin-top: 1px;
+	margin-right: 1px;
+	margin-bottom: 1px;
+	margin-left: 1px;
+	background-color: #3B0334;
+	color: #F06769;
+	float: left;
+	border-radius: 0px;
+}
+button {
+	border-radius: 0px;
+}
+.container-fluid .navbar.navbar-default.navbar-fixed-top {
+	background-color: #060505;
+}
+body {
+	background-color: #070707;
+}
